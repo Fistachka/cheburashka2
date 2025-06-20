@@ -19,6 +19,8 @@
 ![з2](https://github.com/user-attachments/assets/f6731c52-9580-4964-972e-a048e2a4e6be)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/IxMO3RDBouM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+![з4](https://github.com/user-attachments/assets/ada0caa1-f6d3-4b11-9a97-087682150ae4)
+![з3](https://github.com/user-attachments/assets/541dd9f8-d1d2-4896-b665-84ad64e0664e)
 
 YA byl kogda-to strannoj
 Igrushkoj bezymyannoj,
