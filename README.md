@@ -1,36 +1,39 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![з2](https://github.com/user-attachments/assets/f6731c52-9580-4964-972e-a048e2a4e6be)
+![з4](https://github.com/user-attachments/assets/da4cbed9-8d4f-4df2-908a-dc81b74d09de)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/2-ye8Rp0Ykw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Я был когда-то странной
-Игрушкой безымянной,
-К которой в магазине
-Никто не подойдет.
+Мне не везло сначала,
+И даже так бывало:
+Ко мне на день рожденья
+Никто не приходил.
 
-Теперь я Чебурашка,
-Мне каждая дворняжка
-При встрече сразу
-Лапу подает.<br><br>
+Теперь я вместе с Геной,
+Он не обыкновенный,
+Он самый лучший
+В мире крокодил.
+
+Предыдущий урок: stolbitsa.com/fistachka/cheburashka
+
+<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 ![з2](https://github.com/user-attachments/assets/f6731c52-9580-4964-972e-a048e2a4e6be)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/IxMO3RDBouM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-![з4](https://github.com/user-attachments/assets/ada0caa1-f6d3-4b11-9a97-087682150ae4)
-![з3](https://github.com/user-attachments/assets/541dd9f8-d1d2-4896-b665-84ad64e0664e)
 
-YA byl kogda-to strannoj
-Igrushkoj bezymyannoj,
-K kotoroj v magazine
-Nikto ne podojdet.
+Mne ne vezlo snachala,
+I dazhe tak byvalo:
+Ko mne na den' rozhden'ya
+Nikto ne prihodil.
 
-Teper' ya CHeburashka,
-Mne kazhdaya dvornyazhka
-Pri vstreche srazu
-Lapu podaet.<br><br>
+Teper' ya vmeste s Genoj,
+On ne obyknovennyj,
+On samyj luchshij
+V mire krokodil.
 
-![з4](https://github.com/user-attachments/assets/da4cbed9-8d4f-4df2-908a-dc81b74d09de)
-![з3](https://github.com/user-attachments/assets/d5a0a3eb-be3e-43de-9897-49d0ca532ac3)
+
+Previous lesson: stolbitsa.com/fistachka/cheburashka<br><br>
+
