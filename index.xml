@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>cheburashka2</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="Fistachka" repo="cheburashka2"/>
   <readme>
     <ru>08a43a5acd8209b7df468a4608591d7506f7441cb11e6b8bf8fd9a488773868b</ru>
@@ -125,11 +125,11 @@
     <tonalities>10</tonalities>
     <video name="20t.mp4" size="629796" type="video/mp4" volume="0.5">4b627a909063c248196a0b34f0be7efd4d12db16469bbb28d92ebb5e0f83310d</video>
     <notes>
-      <note number="1" values="58" ticks="71" durationTicks="49" ppq="96" velocity="0.843"/>
-      <note number="2" values="48" ticks="121" durationTicks="46" ppq="96" velocity="0.906"/>
-      <note number="3" values="28" ticks="181" durationTicks="48" ppq="96" velocity="0.843"/>
+      <note number="1" values="58" ticks="96" durationTicks="49" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="144" durationTicks="46" ppq="96" velocity="0.906"/>
+      <note number="3" values="28" ticks="194" durationTicks="48" ppq="96" velocity="0.843"/>
       <note number="4" values="38" ticks="240" durationTicks="48" ppq="96" velocity="0.906"/>
-      <note number="5" values="18" ticks="289" durationTicks="48" ppq="96" velocity="0.906"/>
+      <note number="5" values="18" ticks="289" durationTicks="47" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
 </level>
