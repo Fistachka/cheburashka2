@@ -2,7 +2,7 @@
 
 ![з4](https://github.com/user-attachments/assets/da4cbed9-8d4f-4df2-908a-dc81b74d09de)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/2-ye8Rp0Ykw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/evlqaMNf_pA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Мне не везло сначала,
 И даже так бывало:
@@ -22,7 +22,7 @@
 
 ![з2](https://github.com/user-attachments/assets/f6731c52-9580-4964-972e-a048e2a4e6be)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/IxMO3RDBouM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/N72balJtq6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Mne ne vezlo snachala,
 I dazhe tak byvalo:
